@@ -33,7 +33,7 @@ main:
     url: '#about
     weight: 60
     
-  - name: Kevin's Menu (to delete)
+  - name: Kev (to delete)
     url: '#skills'
     weight: 70
 
