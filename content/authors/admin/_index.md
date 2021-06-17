@@ -1,6 +1,7 @@
 ---
 title: Emily Lau
 role: Bachelor of Engineering (Honours) / Master of Biomedical Engineering Student
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter. Yeah I just want dollareedoos
 interests:
