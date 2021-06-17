@@ -24,7 +24,7 @@ main:
     weight: 60
     
   - name: Kevin's Menu (to delete)
-    url: '#resume'
+    url: uploads/resume.pdf
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
