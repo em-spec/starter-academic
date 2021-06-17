@@ -2,9 +2,9 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
+  - title: Studnent
+    company: UNSW
+    company_url: "https://www.unsw.edu.au/engineering/"
     company_logo: org-gc
     location: California
     date_start: 2021-01-01
