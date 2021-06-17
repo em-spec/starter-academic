@@ -21,12 +21,12 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: emlau63@gmail.com
-phone: 0469644484
+phone: +61 469644484
 address:
-  street: XX
+  #street: XX
   city: Sydney
   region: NSW
-  postcode: 'XX'
+ #postcode: 'XX'
   country: Australia
   country_code: AUS
 coordinates:
